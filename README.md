@@ -41,4 +41,4 @@ Built with support from my tutor, and AskBCS
 
 
 ## *Questions*
-For any questions or for support, please contact me at: (email) or (username) on GitHub.
+For any questions or for support, please contact me at: thomas.plunkett.music@gmail.com or ThomasPlunkett on GitHub.
