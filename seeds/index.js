@@ -24,3 +24,6 @@ const seedAll = async () => {
 };
 
 seedAll();
+
+
+//After creating the models and routes, run npm run seed to seed data to your database so that you can test your routes.
